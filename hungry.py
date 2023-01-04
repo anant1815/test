@@ -1,7 +1,6 @@
 hung=input("Are you hungry")
 if hung=="yes":
     print("Eat samosa")
-    print("Eat burger")
-    print("Eat soyachunks")
+    print("Eat pizza")
 else:
     print("Do your work")
